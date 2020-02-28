@@ -6,4 +6,5 @@ scikit-learn
 bs4
 gensim
 pandas
-newspaper
+newspaper3k
+
