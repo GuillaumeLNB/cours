@@ -2,3 +2,4 @@ matplotlib
 nltk
 spacy
 tensorflow
+scikit-learn
