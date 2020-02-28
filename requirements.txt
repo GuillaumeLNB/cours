@@ -3,3 +3,7 @@ nltk
 spacy
 tensorflow
 scikit-learn
+bs4
+gensim
+pandas
+newspaper
